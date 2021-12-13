@@ -1,0 +1,9 @@
+.credit-card-wrap .credit-logo .shape {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  background-color: blue;
+  box-shadow: -2px 2px 0 rgba(255, 255, 255, 0.8);
+  border-radius: 40px 0 40px 40px;
+  transform: rotate(-45deg);
+}
